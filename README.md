@@ -1,1 +1,2 @@
-디스코드 CSS Cdn 입니다.
+# 디스코드 CSS CDN 입니다.
+https://discord.com
